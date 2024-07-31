@@ -9,11 +9,11 @@
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-    transition: all.s;
+    transition: all.1s;
     
   }
   .navbar:hover{
-    background-color: green;
+    background-color: rgb(37, 118, 37);
     transform: scale();
   }
   .logo img{
